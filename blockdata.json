@@ -325,7 +325,7 @@
    "Dist_Name": "Gaya",
    "State_Name": "Bihar"}},
  {"type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [84.396, 25.634]},
+  "geometry": {"type": "Point", "coordinates": [85.38336, 24.8925]},
   "properties": {"Block_Name": "Wazirganj",
    "Dist_Name": "Gaya",
    "State_Name": "Bihar"}},
